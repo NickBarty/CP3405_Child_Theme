@@ -9,3 +9,24 @@ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 Tags: jobs, jcu, linked
 Text Domain: jobportalchild
  */
+.container.names {
+    text-align: center;
+}
+
+.container.names ul {
+    list-style-type: none;
+}
+
+a.student_box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+a.student_box h5{
+    font-size: 18px;
+}
+a.student_box h4{
+    color: black;
+    font-weight: bold;
+}
