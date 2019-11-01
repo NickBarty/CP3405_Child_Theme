@@ -33,4 +33,3 @@ function change_role_name() {
     $wp_roles->role_names['author'] = 'Company';
 }
 add_action('init', 'change_role_name');
-add_action('admin_bar_menu', 'add_toolbar_items', 100);

@@ -30,3 +30,14 @@ a.student_box h4{
     color: black;
     font-weight: bold;
 }
+.author-profile-card {
+    background: #eee;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.author-photo {
+    float: left;
+    text-align: left;
+    padding: 0 10px 5px 0;
+}
